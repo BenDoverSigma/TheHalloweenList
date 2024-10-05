@@ -112,7 +112,7 @@ export default {
                         The recording must have a previous attempt and entire death animation shown before the completion, unless the completion is on the first attempt. Everyplay records are exempt from this
                     </p>
                     <p>
-                        The recording must also show the player hit the endwall, or the completion will be invalidated.
+                        The level must have a theme that correlates with a holiday such as Christmas, Halloween, etc.
                     </p>
                     <p>
                         Do not use secret routes or bug routes
@@ -121,7 +121,7 @@ export default {
                         Do not use easy modes, only a record of the unmodified level qualifies
                     </p>
                     <p>
-                        Once a level falls onto the Legacy List, we accept records for it for 24 hours after it falls off, then afterwards we never accept records for said level
+                        No 2 Player levels will be allowed onto the list.
                     </p>
                 </div>
             </div>
