@@ -1,0 +1,18 @@
+{
+    "id": 110869604,
+    "name": "going nuts",
+    "author": "Bamboozledash",
+    "creators": ["Bamboozledash"],
+    "verifier": "Bamboozledash",
+    "verification": "https://youtu.be/cr6qH9Xm26Q?si=VXVpGwFumesOfs9Q",
+    "percentToQualify": 100,
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "Phantom",
+            "link": "https://youtu.be/BIDpRALh7hQ",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
