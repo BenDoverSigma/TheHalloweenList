@@ -1,0 +1,18 @@
+{
+    "id": 110882277,
+    "name": "fourth of july",
+    "author": "Jack",
+    "creators": ["Jack"],
+    "verifier": "Jack",
+    "verification": "https://youtu.be/-FjJPpYaWlY",
+    "percentToQualify": 100,
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "Phantom",
+            "link": "https://youtu.be/A-4CCVpHGMg",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
