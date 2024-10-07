@@ -1,0 +1,18 @@
+{
+    "id": 110910795,
+    "name": "Xmas Dual",
+    "author": "Bamboozledash",
+    "creators": ["Bamboozledash"],
+    "verifier": "Bamboozledash",
+    "verification": "https://youtu.be/-q95TjwhFSI?si=BB7xy3KdOGl4MUyg",
+    "percentToQualify": 100,
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "Phantom",
+            "link": "https://youtu.be/VuS7zUDWdbE",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
