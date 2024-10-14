@@ -7,5 +7,12 @@
     "verification": "https://youtu.be/8tle4yfiHxA",
     "percentToQualify": "100",
     "password": "Free To Copy",
-    "records": []
+    "records": [
+    {
+        "user": "Vinkii",
+        "link": "https://youtu.be/jyGmZWMP2lA",
+        "percent": 100,
+        "hz": 240
+    }
+]
 }
